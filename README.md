@@ -1,4 +1,4 @@
-# React Library Tutorial Projects
+# React Library
 
 A collection of small React projects and exercises created while learning and practicing React development.
 
